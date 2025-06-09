@@ -101,6 +101,12 @@ body {
     padding-bottom: 5rem;
 }
 
+.home .couple h3 {
+    font-family: 'Sacramento';
+    font-size: 2.9rem;
+    color: var(--pink);
+}
+
 
 .home h2,
 .info h2,
